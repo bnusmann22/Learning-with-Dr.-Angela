@@ -68,6 +68,7 @@ footer {
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
+  cursor: pointer;
   font-weight: 900;
   color: #DA0463;
   text-shadow: 3px 0 #DBEDF3;
